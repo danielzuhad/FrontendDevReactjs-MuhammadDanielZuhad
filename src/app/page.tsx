@@ -1,4 +1,3 @@
-import FilterSection from "./components/FilterSection";
 import HeaderSection from "./components/HeaderSection";
 import MainSection from "./components/MainSection";
 
